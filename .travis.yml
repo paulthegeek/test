@@ -120,5 +120,5 @@ env:
     # TOOLSTATE_REPO_ACCESS_TOKEN=...
     - secure: "ESfcXqv4N2VMhqi2iIyw6da9VrsA78I4iR1asouCaq4hzTTrkB4WNRrfURy6xg72gQ4nMhtRJbB0/2jmc9Cu1+g2CzXtyiL223aJ5CKrXdcvbitopQSDfp07dMWm+UED+hNFEanpErKAeU/6FM3A+J+60PMk8MCF1h9tqNRISJw="
 
-script: echo FOO
+script: false
 
